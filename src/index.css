@@ -1,0 +1,12 @@
+.retake{
+    font-size: 17px;
+    font-weight: bold;
+    padding:5px 10px 5px 10px;
+    margin-left: 40%;
+    background: greenyellow;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.retake:hover{
+    background: #508107;
+}
